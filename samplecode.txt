@@ -1,2 +1,0 @@
-This is the sample code file for git testing
-## end
